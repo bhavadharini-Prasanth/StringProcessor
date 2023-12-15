@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Buildingblock\Buildingblock.csproj" />
+    <ProjectReference Include="..\ClassLibrary2\ClassLibrary2.csproj" />
+    <ProjectReference Include="..\ExternalStringLibrary\ExternalStringLibrary.csproj" />
+    <ProjectReference Include="..\StringProcessor.Domain\StringProcessor.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

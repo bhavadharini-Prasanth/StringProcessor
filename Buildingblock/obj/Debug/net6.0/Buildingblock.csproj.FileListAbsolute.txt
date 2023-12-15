@@ -1,0 +1,12 @@
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\bin\Debug\net6.0\Buildingblock.deps.json
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\bin\Debug\net6.0\Buildingblock.dll
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\bin\Debug\net6.0\ref\Buildingblock.dll
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\bin\Debug\net6.0\Buildingblock.pdb
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\Buildingblock.csproj.AssemblyReference.cache
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\Buildingblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\Buildingblock.AssemblyInfoInputs.cache
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\Buildingblock.AssemblyInfo.cs
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\Buildingblock.csproj.CoreCompileInputs.cache
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\Buildingblock.dll
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\ref\Buildingblock.dll
+C:\Users\Jaiveda\source\Workspaces\Workspace2\StringProcessor\Buildingblock\obj\Debug\net6.0\Buildingblock.pdb

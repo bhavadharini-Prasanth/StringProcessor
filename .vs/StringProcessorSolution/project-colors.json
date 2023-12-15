@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10d9288f-8d2d-46eb-93b9-b08bee22c226": {
+      "ProjectGuid": "10d9288f-8d2d-46eb-93b9-b08bee22c226",
+      "DisplayName": "StringProcessor.API",
+      "ColorIndex": 0
+    },
+    "7014ee77-03e2-42dd-a85a-87b42d25cc75": {
+      "ProjectGuid": "7014ee77-03e2-42dd-a85a-87b42d25cc75",
+      "DisplayName": "Buildingblock",
+      "ColorIndex": 1
+    },
+    "b01c5ea2-4694-4010-87f8-d282deb84ebc": {
+      "ProjectGuid": "b01c5ea2-4694-4010-87f8-d282deb84ebc",
+      "DisplayName": "StringProcessor.Domain",
+      "ColorIndex": 2
+    },
+    "355811b4-7d24-48dc-b719-de84af93d851": {
+      "ProjectGuid": "355811b4-7d24-48dc-b719-de84af93d851",
+      "DisplayName": "ExternalStringLibrary",
+      "ColorIndex": 3
+    },
+    "db612abd-4e4c-4190-92bd-940fa075f4b6": {
+      "ProjectGuid": "db612abd-4e4c-4190-92bd-940fa075f4b6",
+      "DisplayName": "StringProcessor.Infrastructure",
+      "ColorIndex": 4
+    },
+    "942057ca-cd0a-400c-a4e5-c6aef0a489bb": {
+      "ProjectGuid": "942057ca-cd0a-400c-a4e5-c6aef0a489bb",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 5
+    },
+    "18a5e6a7-9432-4b29-817d-e8af9d020df4": {
+      "ProjectGuid": "18a5e6a7-9432-4b29-817d-e8af9d020df4",
+      "DisplayName": "ClassLibrary2",
+      "ColorIndex": 6
+    },
+    "7b540d92-e275-4650-bd97-1d95325ba202": {
+      "ProjectGuid": "7b540d92-e275-4650-bd97-1d95325ba202",
+      "DisplayName": "ClassLibrary3",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
