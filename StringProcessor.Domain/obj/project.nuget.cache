@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/IIw5uECvGUZO99FUI5hYi7mM41yxOvMLxzpeQUDP1GPhQJdZvS3a5ujfRfvHUTt13QaW2j4JCJs2NbPZVH4UQ==",
+  "dgSpecHash": "H6viQLlTi7EQuCgxr+qewchP9vJ6OAdVReQRaHnQmIaAL+770SS/70lel9+E81gmzUhCBn/pHlS3o8uYwFVRnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

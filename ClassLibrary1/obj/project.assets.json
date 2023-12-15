@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",

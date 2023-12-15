@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
       "projectName": "ExternalStringLibrary",
-      "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
+      "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
       "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IH7hy0Z1rV4R2jFYjosx0QfV06N9CP/mPCGJQfSiYoEZHD91Uh/s+NFXvvcq1I9LjxTwbnmMJHxRWj5/HCdm5Q==",
+  "dgSpecHash": "CjE+1EGLbxAhhnNwvW2sQIoXZnNx+hD36qURfrSAQXdDczTwzZ+c46Ma+Ca7V+JXy7kPm0lyZ0xRsH7kT6wAPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.API\\StringProcessor.API.csproj",
+  "projectFilePath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.API\\StringProcessor.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jaiveda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Jaiveda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

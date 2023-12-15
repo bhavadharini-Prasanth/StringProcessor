@@ -4,7 +4,7 @@
     {
         public string Manipulate(string input)
         {
-            return input.Replace("@", "_");
+            return input.Replace("@", "+");
         }
     }
 }

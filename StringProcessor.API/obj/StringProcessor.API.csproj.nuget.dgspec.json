@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.API\\StringProcessor.API.csproj": {}
+    "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.API\\StringProcessor.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\Buildingblock\\Buildingblock.csproj": {
+    "C:\\Users\\Jaiveda\\Documents\\git\\Buildingblock\\Buildingblock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\Buildingblock\\Buildingblock.csproj",
+        "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\Buildingblock\\Buildingblock.csproj",
         "projectName": "Buildingblock",
-        "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\Buildingblock\\Buildingblock.csproj",
+        "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\Buildingblock\\Buildingblock.csproj",
         "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\Buildingblock\\obj\\",
+        "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\Buildingblock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary2\\ClassLibrary2.csproj": {
+    "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary2\\ClassLibrary2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary2\\ClassLibrary2.csproj",
         "projectName": "ClassLibrary2",
-        "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary2\\ClassLibrary2.csproj",
+        "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary2\\ClassLibrary2.csproj",
         "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary2\\obj\\",
+        "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,14 +112,14 @@
         }
       }
     },
-    "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\ExternalStringLibrary.csproj": {
+    "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\ExternalStringLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
         "projectName": "ExternalStringLibrary",
-        "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
+        "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\ExternalStringLibrary.csproj",
         "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.API\\StringProcessor.API.csproj": {
+    "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.API\\StringProcessor.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.API\\StringProcessor.API.csproj",
+        "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.API\\StringProcessor.API.csproj",
         "projectName": "StringProcessor.API",
-        "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.API\\StringProcessor.API.csproj",
+        "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.API\\StringProcessor.API.csproj",
         "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.API\\obj\\",
+        "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -190,11 +190,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj"
+              "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj"
               },
-              "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj"
+              "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj"
               }
             }
           }
@@ -240,14 +240,14 @@
         }
       }
     },
-    "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj": {
+    "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj",
         "projectName": "StringProcessor.Domain",
-        "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj",
+        "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj",
         "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -294,14 +294,14 @@
         }
       }
     },
-    "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj": {
+    "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj",
         "projectName": "StringProcessor.Infrastructure",
-        "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Infrastructure\\StringProcessor.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Jaiveda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jaiveda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -318,17 +318,17 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\Buildingblock\\Buildingblock.csproj": {
-                "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\Buildingblock\\Buildingblock.csproj"
+              "C:\\Users\\Jaiveda\\Documents\\git\\Buildingblock\\Buildingblock.csproj": {
+                "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\Buildingblock\\Buildingblock.csproj"
               },
-              "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary2\\ClassLibrary2.csproj": {
-                "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ClassLibrary2\\ClassLibrary2.csproj"
+              "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary2\\ClassLibrary2.csproj": {
+                "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\ClassLibrary2\\ClassLibrary2.csproj"
               },
-              "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\ExternalStringLibrary.csproj": {
-                "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\ExternalStringLibrary\\ExternalStringLibrary.csproj"
+              "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\ExternalStringLibrary.csproj": {
+                "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\ExternalStringLibrary\\ExternalStringLibrary.csproj"
               },
-              "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jaiveda\\source\\Workspaces\\Workspace2\\StringProcessor\\StringProcessor.Domain\\StringProcessor.Domain.csproj"
+              "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj": {
+                "projectPath": "C:\\Users\\Jaiveda\\Documents\\git\\StringProcessor.Domain\\StringProcessor.Domain.csproj"
               }
             }
           }
